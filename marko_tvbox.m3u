@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1,LOS SIMPSON
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/2373.ts
 #EXTINF:-1,Caracol HD
 http://190.60.40.35:12500/play/a06b/index.m3u8
 #EXTINF:-1,Caracol HD
 http://181.78.7.90:12500/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,CARACOL
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/040.ts
 #EXTINF:-1,CARACOL HD 2
 http://190.102.123.28:8097/play/a0d2/index.m3u8
+#EXTINF:-1,CITY TV
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/045.ts
+#EXTINF:-1,RCN
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/043.ts
 #EXTINF:-1,RCN HD 2
 http://190.60.40.35:12500/play/a06l/index.m3u8
 #EXTINF:-1,RCN HD 2
@@ -28,6 +34,8 @@ http://190.60.40.35:12500/play/a0b2/index.m3u8
 http://190.60.40.35:12500/play/a00c/index.m3u8
 #EXTINF:-1,TVO BOYACA
 http://190.102.123.28:8097/play/a07z/index.m3u8
+#EXTINF:-1,SONY CHANNEL
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/410.ts
 #EXTINF:-1 tvg-name="Sony_Movie_Channel" group-title=Sony_Movie_Channel
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="-",Sony HD
@@ -54,6 +62,8 @@ http://201.230.137.204:8000/play/a0iu/index.m3u8
 http://190.61.117.35:8000/play/a00f
 #EXTINF:-1,BITME
 http://45.228.233.93:8000/play/ca093/index.m3u8
+#EXTINF:-1,BIT ME
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/130.ts
 #EXTINF:-1,Animal Planet
 http://190.61.117.35:8000/play/a01c
 #EXTINF:-1 group-title="-",Animal Planet HD
@@ -100,6 +110,8 @@ http://190.61.117.35:8000/play/a02n
 http://190.61.117.35:8000/play/a04u
 #EXTINF:-1,DE PELICULA
 http://190.61.117.35:8000/play/a045
+#EXTINF:-1 group-title="© De Pelicula" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",DE PELICULA HD 
+http://190.60.42.86:8000/play/a013/index.m3u8
 #EXTINF:-1,DHE
 http://190.61.117.35:8000/play/a02k
 #EXTINF:-1,DISC THEATHER HD
@@ -114,6 +126,8 @@ http://190.61.117.35:8000/play/a059
 http://201.230.137.204:8000/play/a0j3/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 http://181.209.114.13:8000/play/a07i/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://152.231.29.139:8000/play/a0di/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Channel
 http://201.230.137.204:8000/play/a0eb/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Theater HD
@@ -142,18 +156,34 @@ http://45.228.233.93:8000/play/ca074/index.m3u8
 http://190.61.117.35:8000/play/a05o
 #EXTINF:-1,EL LIDER HD
 http://190.61.117.35:8000/play/a08r
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽|000 WIN SPORTS PLUSᴰ CO
+http://152.231.29.139:8000/play/a0cd/index.m3u8
+#EXTINF:-1,WIN SPORTS +
+http://152.231.29.139:8000/play/a0dr/index.m3u8
+#EXTINF:-1,WIN SPORTS +
+http://45.184.87.142:8000/play/a04d
 #EXTINF:-1,ESPN HD
 http://190.61.117.35:8000/play/a052
+#EXTINF:-1,ESPN
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/076.ts
 #EXTINF:-1,ESPN 1 (ARG)
 http://45.228.233.93:8000/play/ca032/index.m3u8
+#EXTINF:-1 ,ESPN ARG HD
+http://181.78.82.6:46090/play/a00q/index.m3u8
+#EXTINF:-1,ESPN Premium
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/2358.ts
 #EXTINF:-1,ESPN  4 HD
 http://190.61.117.35:8000/play/a00y
 #EXTINF:-1,ESPN 2 HD
 http://190.61.117.35:8000/play/a053
+#EXTINF:-1 ,ESPN 2 HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1,ESPN 3 HD
 http://190.61.117.35:8000/play/a054
 #EXTINF:-1,ESPN 3 HD
 http://190.60.40.35:12500/play/a00q/index.m3u8
+#EXTINF:-1 ,ESPN 3 HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
 #EXTINF:-1,ESPN 4HD
 http://190.60.40.35:12500/play/a0cx/index.m3u8
 #EXTINF:-1,ESPN 5
@@ -176,6 +206,28 @@ http://201.230.137.204:8000/play/a0hq/index.m3u8
 http://201.230.137.204:8000/play/a0em/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
 http://201.230.137.204:8000/play/a06l/index.m3u8
+#EXTINF:-1,FOX SPORTS
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/087.ts
+#EXTINF:-1,FOX SPORTS
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/2351.ts
+#EXTINF:-1,FOX SPORTS 2
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/2352.ts
+#EXTINF:-1,FOX SPORTS 2
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/17756.ts
+#EXTINF:-1,FOX SPORTS 2
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/089.ts
+#EXTINF:-1,FOX SPORTS 2
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/090.ts
+#EXTINF:-1,FOX SPORTS 3
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/085.ts
+#EXTINF:-1,FOX SPORTS 3
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/091.ts
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/088.ts
+#EXTINF:-1,DS SPORTS
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/069.ts
+#EXTINF:-1,DS SPORTS HD
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/069.ts
 #EXTINF:-1,ESTRELLAS HD
 http://190.61.117.35:8000/play/a03b
 #EXTINF:-1,El Gourmet
@@ -194,6 +246,8 @@ http://201.230.137.204:8000/play/a0iw/index.m3u8
 http://190.61.117.35:8000/play/a037
 #EXTINF:-1,Golden Premiere HD
 http://190.61.117.35:8000/play/a036
+#EXTINF:-1,GOLDEN EDGE
+http://38.44.109.41:8003/play/a002
 #EXTINF:-1,HBO Family HD
 http://190.61.117.35:8000/play/a02s
 #EXTINF:-1 group-title="-",HBO Family
@@ -204,16 +258,52 @@ http://190.61.117.35:8000/play/a02p
 http://201.230.137.204:8000/play/a0hy/index.m3u8
 #EXTINF:-1 group-title="-",HBO HD
 http://201.230.137.204:8000/play/a06h/index.m3u8
+#EXTINF:-1,HBO
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/431.ts
+#EXTINF:-1,HBO
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2676.ts
+#EXTINF:-1,HBO
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2642.ts
+#EXTINF:-1,HBO
+http://45.184.87.142:8000/play/a04k
 #EXTINF:-1,HBO Plus HD
 http://190.61.117.35:8000/play/a02r
+#EXTINF:-1,HBO Plus HD
+http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1,HBO PLUS
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2678.ts
 #EXTINF:-1,HBO SIGNATURE
 http://190.61.117.35:8000/play/a05r
 #EXTINF:-1,HBO XTREME
 http://190.61.117.35:8000/play/a02t
+#EXTINF:-1,HBO XTREME
+http://200.92.227.238:8000/play/a0mu/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2695.ts
+#EXTINF:-1,HBO XTREME
+http://45.184.87.142:8000/play/a04l
 #EXTINF:-1,HBO2 HD
 http://190.61.117.35:8000/play/a02q
+#EXTINF:-1,HBO2 HD
+http://190.61.42.218:9000/play/a00v
+#EXTINF:-1,HBO 2 HD
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/429.ts
+#EXTINF:-1,HBO 2
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2643.ts
+#EXTINF:-1,HBO 2
+http://45.184.87.142:8000/play/a05a
 #EXTINF:-1,HBO PLUS
 http://45.228.233.93:8000/play/ca0102/index.m3u8
+#EXTINF:-1,HBO PLUS
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/424.ts
+#EXTINF:-1,HBO PLUS
+http://45.184.87.142:8000/play/a05m
+#EXTINF:-1,HBO POP HD
+http://181.143.230.202:8000/play/a02p/index.m3u8
+#EXTINF:-1,HBO MUNDI
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/421.ts
+#EXTINF:-1,HBO MUNDI
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/30415.ts
 #EXTINF:-1,History HD
 http://190.61.117.35:8000/play/a00w
 #EXTINF:-1,Home & Health HD
@@ -248,6 +338,8 @@ http://190.61.117.35:8000/play/a06b
 http://190.61.117.35:8000/play/a03z
 #EXTINF:-1,Multipremier
 http://190.61.117.35:8000/play/a026
+#EXTINF:-1,Multipremier
+http://181.78.106.127:9000/play/ca087/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://190.61.117.35:8000/play/a056
 #EXTINF:-1 group-title="-",Nat Geo HD
@@ -264,6 +356,8 @@ http://201.230.137.204:8000/play/a0hr/index.m3u8
 http://190.60.40.35:12500/play/a0cy/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://190.61.117.35:8000/play/a05b
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/417.ts
 #EXTINF:-1,Q HUBO TV
 http://190.61.117.35:8000/play/a04i
 #EXTINF:-1,REAL MADRID 
@@ -282,10 +376,18 @@ http://201.230.137.204:8000/play/a06e/index.m3u8
 http://190.61.117.35:8000/play/a01j
 #EXTINF:-1 group-title="-",STAR CHANNEL HD
 http://201.230.137.204:8000/play/a0bu/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2671.ts
+#EXTINF:-1,STAR CHANNEL
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2628.ts
 #EXTINF:-1,START PREMIUM
 http://190.61.117.35:8000/play/a064
 #EXTINF:-1,Studio Universal
 http://190.61.117.35:8000/play/a029
+#EXTINF:-1,STUDIO CHANNEL
+http://tvbross.com:8080/live/gEy94-Wqd65/wQg741-pLF652/405.ts
+#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-name="Universal Premiere East" group-title="Peliculas & Series" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png", UNIVERSAL PREMIERE HD
+http://200.115.96.66:4000/play/a035/index.m3u8
 #EXTINF:-1 group-title="-",Studio Universal HD
 http://201.230.137.204:8000/play/a0hi/index.m3u8
 #EXTINF:-1,TCM
@@ -404,6 +506,7 @@ http://181.209.114.13:8000/play/a09j/index.m3u8
 http://181.209.114.13:8000/play/a02p/index.m3u8
 #EXTINF:-1,ciudad magazine
 http://181.209.114.13:8000/play/a02h/index.m3u8
+
 #EXTINF:-1,PLAY BOY
 http://190.61.117.35:8000/play/a05y
 #EXTINF:-1,VENUS
@@ -422,3 +525,34 @@ http://190.60.40.35:12500/play/VENUS/index.m3u8
 http://181.78.7.90:12500/play/SEXTREME/index.m3u8
 #EXTINF:-1,VENUS
 http://181.78.7.90:12500/play/VENUS/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="General",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="CINE Y SERIES", IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",VISIÓN TV | GT
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1,DRAGON BALL
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/49640.ts
+#EXTINF:-1,M+ ESTRENOS
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2647.ts
+#EXTINF:-1,M+ ACCION
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2524.ts
+#EXTINF:-1,M+ DRAMA
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2527.ts
+#EXTINF:-1,NEOX
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2523.ts
+#EXTINF:-1,MX Family
+http://45.184.87.142:8000/play/a03b
+#EXTINF:-1,MX Clasic
+http://45.184.87.142:8000/play/a03g
+#EXTINF:-1,MX Series
+http://45.184.87.142:8000/play/a03f
+#EXTINF:-1,AZ CINEMA
+http://45.184.87.142:8000/play/a05i
+#EXTINF:-1,LOONEY TUNES
+http://45.184.87.142:8000/play/a01w
