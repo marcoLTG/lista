@@ -8,6 +8,8 @@ http://181.78.7.90:12500/play/a06b/index.m3u8
 http://norxoaf.top:8080/321693985676103/2021693985676234/18402
 #EXTINF:-1,ET Canal El Tiempo
 http://190.102.123.28:8097/play/a0dj/index.m3u8
+#EXTINF:-1,CityTv
+https://www.youtube.com/watch?v=7061sQBO_Pk&ab_channel=CityTv
 #EXTINF:-1 tvg-id="67d9b0ebc290c9499046e88f" tvg-name="RCN Noticias" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Noticias" tvg-chno="699", RCN Noticias
 https://stitcher.pluto.tv/stitch/hls/channel/67d9b0ebc290c9499046e88f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9bc446b7-764a-11f0-aeb9-32008dd2b401
 #EXTINF:-1,RCN HD 2
@@ -756,4 +758,5 @@ http://190.61.117.35:8000/play/a034
 http://190.102.123.28:8097/play/a0bo/index.m3u8
 #EXTINF:-1,France 24
 http://190.102.123.28:8097/play/a0dh/index.m3u8
+
 
