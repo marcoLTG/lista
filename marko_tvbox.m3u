@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CO1.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CO1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_US1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_MX1.xml"
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
 http://181.78.85.53:9002/play/a02h/index.m3u8
@@ -57,19 +57,20 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1,HBO HD
+
+#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="General",Canal HBO (México)
 http://190.61.117.35:8000/play/a02p
 #EXTINF:-1 group-title="-",HBO HD
 http://201.230.137.204:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO HD"
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO HD",HBO
 http://201.230.137.204:8000/play/a06h/index.m3u8
 #EXTINF:-1,HBO
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2676.ts
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO.MEX
 http://45.184.87.142:8000/play/a04k
 #EXTINF:-1,LA: HBO
 http://norxoaf.top:8080/321693985676103/2021693985676234/18422
-#EXTINF:-1,HBO2 HD
+#EXTINF:-1 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="General", Canal HBO 2 Latinoamérica
 http://190.61.117.35:8000/play/a02q
 #EXTINF:-1,HBO2 HD
 http://190.61.42.218:9000/play/a00v
@@ -259,7 +260,7 @@ http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2647.ts
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2524.ts
 #EXTINF:-1,M+ DRAMA
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2527.ts
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+#EXTINF:-1 tvg-id="Sony.Cine.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movies",Cine Terror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
