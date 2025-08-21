@@ -4,7 +4,7 @@
 http://181.78.85.53:9002/play/a02h/index.m3u8
 #EXTINF:-1,Caracol HD
 http://190.60.40.35:12500/play/a06b/index.m3u8
-#EXTINF:-1,tvg-id="Caracol.co" tvg-name="CARACOL HD"
+#EXTINF:-1,tvg-id="Caracol.co" tvg-name="Caracol"
 http://181.78.7.90:12500/play/a06b/index.m3u8
 #EXTINF:-1,LA: CARACOL
 http://norxoaf.top:8080/321693985676103/2021693985676234/18402
