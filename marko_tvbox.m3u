@@ -55,7 +55,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-
 #EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="General",Canal HBO (México)
 http://190.61.117.35:8000/play/a02p
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png",HBO
@@ -348,7 +347,6 @@ http://65618-mercy.ott-tx.com:80/096dcd2525/e4bf35fa43/543995
 http://65618-mercy.ott-tx.com:80/096dcd2525/e4bf35fa43/28539
 #EXTINF:-1,LAT| PPV 37
 http://65618-mercy.ott-tx.com:80/096dcd2525/e4bf35fa43/543996
-tvg-id="Cinecanal.us" 
 
 #EXTINF:-1,DISC THEATHER HD
 http://190.61.117.35:8000/play/a04s
