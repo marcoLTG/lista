@@ -129,8 +129,6 @@ http://201.230.137.204:8000/play/a0ix/index.m3u8
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2671.ts
 #EXTINF:-1,STAR CHANNEL
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2628.ts
-#EXTINF:-1 tvg-id="Sony.Cine.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Sony Cine
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Canal Sony (México)
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",Sony
@@ -139,6 +137,8 @@ http://190.61.117.35:8000/play/a01l
 http://201.230.137.204:8000/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(Chile).cl" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69091_h15_ab.png",SONY MOVIES
 http://190.61.117.35:8000/play/a05t
+#EXTINF:-1 tvg-id="Sony.Cine.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,WARNER HD
 http://190.61.117.35:8000/play/a01k
 #EXTINF:-1 group-title="-",Warner Channel HD
