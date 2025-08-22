@@ -8,7 +8,7 @@ http://181.78.85.53:9002/play/a02h/index.m3u8
 http://190.60.40.35:12500/play/a06b/index.m3u8
 #EXTINF:-1,RCN
 http://181.188.216.5:18000/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="General" tvg-name="City TV Bogotá", Citytv.co
+#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="General" tvg-name="City TV Bogotá", Citytv
 http://181.119.85.222:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
@@ -50,7 +50,7 @@ http://190.60.40.35:12500/play/a00d/index.m3u8
 http://190.102.123.28:8097/play/a0dg/index.m3u8
 #EXTINF:-1,Panamericana
 http://190.102.123.28:8097/play/a0am/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Español (1080p)
+#EXTINF:-1 tvg-id="Canal.DW.(Latinoamérica).ar" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",Canal DW (Latinoamérica)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
