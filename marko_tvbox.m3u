@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CO1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_US1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_MX1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CL1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_AR1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CL1.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CO1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_US1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_MX1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CL1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_AR1.xml"
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol HD 
 http://181.78.7.90:12500/play/a06b/index.m3u8
