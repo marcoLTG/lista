@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_COL1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_US1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_MX1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CL1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_AR1.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_COL1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg-co.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_US1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_MX1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CL1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_AR1.xml"
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol HD 
 http://181.78.7.90:12500/play/a06b/index.m3u8
@@ -8,7 +8,7 @@ http://181.78.85.53:9002/play/a02h/index.m3u8
 http://190.60.40.35:12500/play/a06b/index.m3u8
 #EXTINF:-1,RCN
 http://181.188.216.5:18000/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-id="CityTV.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="General" tvg-name="City TV Bogotá", City TV
+#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="General" tvg-name="City TV Bogotá", Citytv.co
 http://181.119.85.222:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
