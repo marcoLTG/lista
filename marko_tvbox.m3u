@@ -8,7 +8,7 @@ http://181.78.85.53:9002/play/a02h/index.m3u8
 http://190.60.40.35:12500/play/a06b/index.m3u8
 #EXTINF:-1,RCN
 http://181.188.216.5:18000/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-id="City.TV.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="General",City tv
+#EXTINF:-1 tvg-id="CityTV.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="General" tvg-name="City TV Bogotá", City TV Bogotá
 http://181.119.85.222:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
@@ -131,7 +131,7 @@ http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2671.ts
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2628.ts
 #EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Canal Sony (México)
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="Sony.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",Sony
+#EXTINF:-1 tvg-id="Sony.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",Sony channel
 http://190.61.117.35:8000/play/a01l
 #EXTINF:-1 tvg-id="Canal.Sony.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Canal Sony (Chile)
 http://201.230.137.204:8000/play/a0ip/index.m3u8
