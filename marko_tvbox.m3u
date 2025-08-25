@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_COL1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg-co.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_US1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_MX1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_CL1.xml,https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_AR1.xml"
+#EXTM3U url-tvg="https://drive.google.com/file/d/1NIy0Fjtr3V8nSzSnmujSpBQ8eFGedNO2/view?usp=drive_link"
 
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol HD 
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
 http://181.78.7.90:12500/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
 http://181.78.85.53:9002/play/a02h/index.m3u8
@@ -50,7 +50,7 @@ http://190.60.40.35:12500/play/a00d/index.m3u8
 http://190.102.123.28:8097/play/a0dg/index.m3u8
 #EXTINF:-1,Panamericana
 http://190.102.123.28:8097/play/a0am/index.m3u8
-#EXTINF:-1 tvg-id="Canal.DW.(Latinoamérica).ar" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",Canal DW (Latinoamérica)
+#EXTINF:-1 tvg-id="DW (Español).co" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW (Español).co
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
@@ -77,13 +77,13 @@ http://45.184.87.142:8000/play/a05a
 http://190.61.117.35:8000/play/a02s
 #EXTINF:-1 tvg-id="HBO.Family.co",HBO Family HD
 http://201.230.137.204:8000/play/a0id/index.m3u8
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx",HBO Plus HD
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx",Canal HBO Plus
 http://190.61.117.35:8000/play/a02r
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx",HBO Plus HD
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx",Canal HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx",HBO PLUS
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx",Canal HBO Plus
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2678.ts
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx",HBO PLUS
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx",Canal HBO Plus
 http://45.184.87.142:8000/play/a05m
 #EXTINF:-1,HBO XTREME
 http://190.61.117.35:8000/play/a02t
