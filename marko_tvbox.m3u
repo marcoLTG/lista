@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://drive.google.com/file/d/1NIy0Fjtr3V8nSzSnmujSpBQ8eFGedNO2/view?usp=drive_link"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/marcoLTG/lista/refs/heads/main/epg_ripper_COL1.xml"
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
 http://181.78.7.90:12500/play/a06b/index.m3u8
