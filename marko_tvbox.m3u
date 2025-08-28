@@ -111,9 +111,9 @@ http://201.230.137.204:8000/play/a0id/index.m3u8
 http://190.102.246.93:9005/play/a01g
 #EXTINF:-1,HBO FAMILY
 http://190.102.149.68:1234/play/a1bs/index.m3u8
-#EXTINF:-1 tvg-id="HBO Plus (Panamericano HD).co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus (Panamericano HD).co" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/hbo-plus-8b242e53.png?fit=500%2C500&ssl=1",HBO Plus
 http://190.61.117.35:8000/play/a02r
-#EXTINF:-1 tvg-id="HBO Plus (Panamericano HD).co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus (Panamericano HD).co" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/hbo-plus-8b242e53.png?fit=500%2C500&ssl=1",HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus (Panamericano HD).co",HBO Plus
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2678.ts
@@ -145,9 +145,9 @@ http://181.143.230.202:8000/play/a02p/index.m3u8
 http://190.102.246.93:9005/play/a05b
 #EXTINF:-1,HBO POP
 http://181.188.216.5:18000/play/a0im/index.m3u8
-#EXTINF:-1,HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s",HBO MUNDI
 http://181.188.216.5:18000/play/a0md/index.m3u8
-#EXTINF:-1,HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s",HBO MUNDI
 http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/30415.ts
 #EXTINF:-1,UNIVERSAL CINEMA
 http://45.184.87.142:8000/play/a05o
