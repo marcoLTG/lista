@@ -119,12 +119,20 @@ http://201.230.137.204:8000/play/a0ix/index.m3u8
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",Sony channel
 http://190.61.117.35:8000/play/a01l
-#EXTINF:-1,SONY
+#EXTINF:-1 tvg-id="Sony.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",Sony channel
 http://179.49.163.34:45000/play/a020/index.m3u8
+#EXTINF:-1,SONY HD
+http://45.195.15.172:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Canal Sony (Chile)
 http://201.230.137.204:8000/play/a0ip/index.m3u8
+#EXTINF:-1 tvg-id="Sony.co",Sony Movies HD
+http://45.195.15.172:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(Chile).cl" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s69091_h15_ab.png",SONY MOVIES
 http://190.61.117.35:8000/play/a05t
+#EXTINF:-1 tvg-logo="http://45.5.117.99:8000/playlist/tvg-logo/a03s.png",SONY MOVIES HD
+http://45.5.117.99:8000/play/a03s/index.m3u8
+#EXTINF:-1,Sony Movies HD
+http://45.195.15.172:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Cine.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
@@ -328,9 +336,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u
 
 #EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1, tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://179.63.6.17:9000/play/a08e
-#EXTINF:-1, tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://190.102.149.68:1234/play/a1as/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://181.78.106.127:9000/play/ca026/index.m3u8
@@ -341,9 +349,9 @@ http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.+.HD(DTS+HD).co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/340?cb=20221115002318&path-prefix=es",DSPORTS + HD(DTS+HD)
 http://190.102.149.68:1234/play/a1ax/index.m3u8
 
-#EXTINF:-1,ESPN HD COLOMBIA
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD COLOMBIA
 http://181.188.216.5:18000/play/a0ou/index.m3u8
-#EXTINF:-1,ESPN HD COL
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD COL
 http://181.188.216.5:18000/play/a0pe/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
 http://201.230.137.204:8000/play/a06l/index.m3u8
@@ -439,6 +447,8 @@ http://181.78.106.127:9000/play/ca029/index.m3u8
 http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1, SKY SPORT LA LIGA ES
 http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1,tdp HD
+http://176.65.146.93:8401/play/a093/index.m3u8
 #EXTINF:-1,TNT SPORT
 http://190.61.117.35:8000/play/a03i
 #EXTINF:-1 group-title="АПЛ", Sky Sports Premier League
