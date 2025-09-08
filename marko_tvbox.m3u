@@ -29,7 +29,7 @@ http://181.78.7.90:12500/play/a06l/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipfuuc8AqD1eXWUOfdkJQTRDk36UlLNtwyRc57R1P2orDjn5bYNyaJmb_owpChyTAxHhFeQCgQNPURKtINIlFYngvD2uBuvT8L44qs4mUIGxU8LDBz6-v89agAFMluWVhJE00UNdJvseomlDGhjEOcOprg_6KvbokiVMnQSjz6UCwbsd8Dq2aKVBVX/s257/rcn-novelas.png",RCN Novelas
 http://201.230.137.204:8000/play/a0ff/index.m3u8
-#EXTINF:-1 tvg-id="Señal.Colombia.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png",Señal Colombia
+#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png",Señal Colombia
 http://fortv.cc:8080/90820916/64752029/78711
 #EXTINF:-1 tvg-id="Señal.Colombia.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png",Señal Colombia
 http://181.205.130.194:4000/play/a08k
@@ -124,13 +124,13 @@ http://201.230.137.204:8000/play/a0bu/index.m3u8
 http://201.230.137.204:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony channel HD México
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony channel HD
+#EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony channel HD
 http://45.5.117.99:8000/play/a0hp/index.m3u8
-#EXTINF:-1 tvg-id="SONY.(Sony).pe" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",Sony channel HD PERU
+#EXTINF:-1 tvg-id="SONY.(Sony).pe" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony channel HD PERU
 http://179.49.163.34:45000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="Sony HD.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY HD DAÑADO
+#EXTINF:-1 tvg-id="Sony HD.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",SONY HD DAÑADO
 http://45.195.15.172:8000/play/a0a2/index.m3u8
-#EXTINF:-1 tvg-id="SONY.ve" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony (VENECO)
+#EXTINF:-1 tvg-id="SONY.ve" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony (VENECO)
 http://201.230.137.204:8000/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-id="I141.70312.schedulesdirect.org" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",Sony Movies HD DAÑADO
 http://45.195.15.172:8000/play/a02o/index.m3u8
@@ -138,19 +138,19 @@ http://45.195.15.172:8000/play/a02o/index.m3u8
 http://45.5.117.99:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="I141.70312.schedulesdirect.org" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",SONY MOVIES
 http://190.61.117.35:8000/play/a05t
-#EXTINF:-1 tvg-id="Sony.Cine.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Sony Cine
+#EXTINF:-1 tvg-id="Sony.Cine.us" tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Warner.Channel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",Warner Channel HD
-http://201.230.137.204:8000/play/a0iq/index.m3u8
-#EXTINF:-1 tvg-id="Warner.Channel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",Warner Channel HD
-http://201.230.137.204:8000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-id="WARNER.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",Warner ARG HD
-http://181.78.85.53:9002/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="WARNER.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",Warner ARG HD
-http://190.102.246.93:9005/play/a04f
-#EXTINF:-1 tvg-id="WARNER.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",Warner VENECO
+#EXTINF:-1 tvg-id="Warner.Channel.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png",Warner HD
 http://181.188.216.5:18000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id="I769.98111.schedulesdirect.org" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png",Warner VENECO HD
+http://201.230.137.204:8000/play/a0iq/index.m3u8
+#EXTINF:-1 tvg-id="WARNER.ve" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png",Warner VENECO HD
+http://201.230.137.204:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-id="WARNER.ve" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png",Warner VENECO HD
+http://181.78.85.53:9002/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="WARNER.ve" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png",Warner VENECO HD
+http://190.102.246.93:9005/play/a04f
 #EXTINF:-1 tvg-id="Space.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajsd527kX4i7HnfCLp4kfmDBWd30WseRQ_j_o4rW9VoqU-IBqIIoat_erJlnflKSuMDw&usqp=CAU",SPACE HD
 http://45.195.15.172:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="Space.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajsd527kX4i7HnfCLp4kfmDBWd30WseRQ_j_o4rW9VoqU-IBqIIoat_erJlnflKSuMDw&usqp=CAU",SPACE HD
@@ -167,9 +167,9 @@ http://200.115.96.66:4000/play/a0he/index.m3u8
 http://179.51.136.19:8000/play/a1a9/index.m3u8
 #EXTINF:-1 tvg-id="FX.co" tvg-name="FX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg",FX HD
 http://201.230.137.204:8000/play/a0fx/index.m3u8
-#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT HD
+#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png",TNT HD
 http://45.5.117.99:8000/play/a0hu/index.m3u8
-#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT HD
+#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png",TNT HD
 http://45.195.15.172:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TNT.Series.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png",TNT HD México
 http://190.61.117.35:8000/play/a04r
@@ -185,7 +185,7 @@ http://45.195.15.172:8000/play/a060/index.m3u8
 http://45.5.117.99:8000/play/a0kl/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUS5W-mLtibPT3ygXPhA63NPvM67jBSUa4AUxSFcpuOTO_pA7uy4SIaN35CuQksFk3pRA&usqp=CAU",AMC HD ARG
 http://201.230.137.204:8000/play/a0au/index.m3u8
-#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUS5W-mLtibPT3ygXPhA63NPvM67jBSUa4AUxSFcpuOTO_pA7uy4SIaN35CuQksFk3pRA&usqp=CAU",AMC HD ARG
+#EXTINF:-1 tvg-id="I17.16496.schedulesdirect.org" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUS5W-mLtibPT3ygXPhA63NPvM67jBSUa4AUxSFcpuOTO_pA7uy4SIaN35CuQksFk3pRA&usqp=CAU",AMC HD ARG
 http://190.102.246.93:9005/play/a04o
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png",Cinecanal HD
 http://201.230.137.204:8000/play/a06f/index.m3u8
@@ -193,7 +193,7 @@ http://201.230.137.204:8000/play/a06f/index.m3u8
 http://201.230.137.204:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png",Cinecanal HD
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAX SUR.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Canal Cinemax (Chile)
+#EXTINF:-1 tvg-id="CINEMAX.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png",Canal Cinemax ARG
 http://201.230.137.204:8000/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-id="GOLDEN.HD.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png",Golden
 http://45.195.15.172:8000/play/a04a/index.m3u8
@@ -315,9 +315,9 @@ http://65618-mercy.ott-tx.com:80/096dcd2525/e4bf35fa43/543996
 http://45.5.117.99:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png",DISCOVERY THEATHER HD
 http://201.230.137.204:8000/play/a0i4/index.m3u8
-#EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",Discovery ID HD
+#EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.cl" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png",Discovery ID HD
 http://45.195.15.172:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",Discovery ID HD DAÑADO
+#EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.cl" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png",Discovery ID HD DAÑADO
 http://45.5.117.99:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png",Discovery Channel HD DAÑADO
 http://45.195.15.172:8000/play/a062/index.m3u8
@@ -371,9 +371,9 @@ http://201.230.137.204:8000/play/a0gg/index.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9bc446b7-764a-11f0-aeb9-32008dd2b401
 
 
-#EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
+#EXTINF:-1 tvg-id="I205.94102.schedulesdirect.org" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
+#EXTINF:-1 tvg-id="I205.94102.schedulesdirect.org" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://190.102.149.68:1234/play/a1as/index.m3u8
@@ -484,7 +484,7 @@ http://181.78.106.127:9000/play/ca029/index.m3u8
 http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1, SKY SPORTS LA LIGA ES
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png",tdp HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tdp_HD.png/640px-Tdp_HD.png",tdp HD
 http://176.65.146.93:8401/play/a093/index.m3u8
 #EXTINF:-1,TNT SPORTS
 http://190.61.117.35:8000/play/a03i
@@ -541,7 +541,7 @@ http://185.236.230.212:9982/play/a09r
 
 #EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png",AdultSwim
 http://181.78.85.53:9002/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="ADULT SWIM HD.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png",AdultSwim ARG
+#EXTINF:-1 tvg-id="I17.16496.schedulesdirect.org" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png",AdultSwim ARG
 http://104.238.205.28:8989/278392_.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png",AdultSwim
 http://45.195.15.172:8000/play/a0ct/index.m3u8
@@ -624,7 +624,7 @@ http://45.195.15.172:8000/play/a005/index.m3u8
 http://181.188.216.5:18000/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png",CHV CHILE
 http://181.188.216.5:18000/play/a0ii/index.m3u8
-#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/250px-Ecuavisa_Logo_2019.png",ECUAVISA
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png",ECUAVISA
 http://181.188.216.5:18000/play/a0ls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo-antena-latina-1999-2002.jpg/330px-Logotipo-antena-latina-1999-2002.jpg",Antena 7
 http://45.195.15.172:8000/play/a0ch/index.m3u8
