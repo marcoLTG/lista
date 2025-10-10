@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://iptv-epg.org/files/epg-co.xml,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://iptv-epg.org/files/epg-ar.xml,https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz,https://iptv-epg.org/files/epg-cl.xml,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://iptv-epg.org/files/epg-es.xml,https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz,https://iptv-epg.org/files/epg-ec.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://iptv-epg.org/files/epg-mx.xml,https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz,https://iptv-epg.org/files/epg-pe.xml,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://iptv-epg.org/files/epg-us.xml,https://iptv-epg.org/files/epg-ve.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://iptv-epg.org/files/epg-co.xml,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://iptv-epg.org/files/epg-ar.xml,https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz,https://iptv-epg.org/files/epg-cl.xml,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://iptv-epg.org/files/epg-es.xml,https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz,https://iptv-epg.org/files/epg-ec.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://iptv-epg.org/files/epg-mx.xml,https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz,https://iptv-epg.org/files/epg-pe.xml,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://iptv-epg.org/files/epg-us.xml,https://iptv-epg.org/files/epg-ve.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
  
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
@@ -123,7 +123,7 @@ http://201.230.137.204:8000/play/a0bu/index.m3u8
 #EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",Star Channel HD
 http://201.230.137.204:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony channel HD México
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony channel HD
 http://45.5.117.99:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="SONY.(Sony).pe" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony channel HD PERU
@@ -132,13 +132,13 @@ http://179.49.163.34:45000/play/a020/index.m3u8
 http://45.195.15.172:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="SONY.ve" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony (VENECO)
 http://201.230.137.204:8000/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-id="I141.70312.schedulesdirect.org" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",Sony Movies HD DAÑADO
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",Sony Movies HD DAÑADO
 http://45.195.15.172:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",SONY MOVIES HD
 http://45.5.117.99:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="I141.70312.schedulesdirect.org" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",SONY MOVIES
 http://190.61.117.35:8000/play/a05t
-#EXTINF:-1 tvg-id="Sony.Cine.us" tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
+#EXTINF:-1 tvg-id="Sony.Cine.us2" tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Warner.Channel.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png",Warner HD
@@ -193,7 +193,7 @@ http://201.230.137.204:8000/play/a06f/index.m3u8
 http://201.230.137.204:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png",Cinecanal HD
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAX.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png",Canal Cinemax ARG
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png",Canal Cinemax ARG
 http://201.230.137.204:8000/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-id="GOLDEN.HD.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png",Golden
 http://45.195.15.172:8000/play/a04a/index.m3u8
@@ -347,7 +347,7 @@ http://norxoaf.top:8080/321693985676103/2021693985676234/52514
 http://45.195.15.172:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Turbo.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png",Discovery Turbo
 http://201.230.137.204:8000/play/a0g0/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Turbo.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Atlas_TV.png/120px-Atlas_TV.png",Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery.Turbo.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png",Discovery Turbo
 http://200.113.4.75:7210/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World.co" tvg-logo="https://www.vhv.rs/dpng/d/131-1319211_transparent-discovery-png-discovery-world-tv-logo-png.png",Discovery World HD
 http://201.230.137.204:8000/play/a069/index.m3u8
@@ -494,6 +494,8 @@ http://181.78.106.127:9000/play/ca030/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tdp_HD.png/640px-Tdp_HD.png",tdp HD
 http://176.65.146.93:8401/play/a093/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tdp_HD.png/640px-Tdp_HD.png",tdp HD
+http://176.65.146.237:8401/play/a093/index.m3u8
 #EXTINF:-1,TNT SPORTS
 http://190.61.117.35:8000/play/a03i
 #EXTINF:-1 group-title="АПЛ", Sky Sports Premier League
@@ -551,7 +553,7 @@ http://185.236.230.212:9982/play/a09r
 http://181.78.85.53:9002/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png",AdultSwim ARG
 http://104.238.205.28:8989/278392_.m3u8
-#EXTINF:-1 tvg-id="ADULT SWIM HD.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png",AdultSwim
+#EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png",AdultSwim
 http://45.195.15.172:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="Canal.BitMe.mx" tvg-logo="https://logowik.com/content/uploads/images/bitme2291.logowik.com.webp",BitMe
 http://181.119.85.222:8000/play/a03j/index.m3u8
