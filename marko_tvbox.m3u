@@ -156,7 +156,7 @@ http://181.119.86.68:8000/play/c023/index.m3u8
 http://38.183.182.166:8000/play/a0vg/index.m3u8
 #EXTINF:-1 tvg-id="SONY.ve" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony (VENECO)
 http://201.230.137.204:8000/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",DAÑADO Sony Movies HD
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",Sony Movies HD
 http://181.119.86.68:8000/play/b040/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png",SONY MOVIES HD
 http://45.5.117.99:8000/play/a03s/index.m3u8
@@ -183,7 +183,7 @@ http://190.102.246.93:9005/play/a04f
 
 #EXTINF:-1 tvg-id="Space.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png",SPACE HD
 http://45.5.117.99:8000/play/a0iz/index.m3u8
-#EXTINF:-1 tvg-id="Space.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png",DAÑADO SPACE HD
+#EXTINF:-1 tvg-id="Space.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png",SPACE HD
 http://181.78.106.127:9000/play/ca072/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Space.(Argentina).ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png",SPACE HD ARG
 http://45.181.122.46:8090/play/a00h
