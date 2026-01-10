@@ -188,6 +188,8 @@ http://181.78.106.127:9000/play/ca072/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Space.(Argentina).ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png",SPACE HD ARG
 http://45.181.122.46:8090/play/a00h
 #EXTINF:-1 tvg-id="Canal.Space.(Argentina).ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png",SPACE HD ARG
+http://189.50.210.3:8008/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Space.(Argentina).ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png",SPACE HD ARG
 http://45.181.122.46:8090/play/a00h
 #EXTINF:-1 tvg-id="FX.co" tvg-name="FX HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg",FX HD
 http://189.50.210.3:8008/play/a036/index.m3u8
@@ -202,10 +204,12 @@ http://148.222.225.136:8004/play/a0e0/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png",TNT HD
 http://45.5.117.99:8000/play/a0hu/index.m3u8
-#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png",DAÑADO TNT HD
+#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png",TNT HD
 http://148.222.225.136:8004/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="Canal.TNT.Series.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png",DAÑADO TNT HD México
+#EXTINF:-1 tvg-id="Canal.TNT.Series.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png",TNT HD México
 http://190.60.37.118:4000/play/a02w
+#EXTINF:-1 tvg-id="Canal.TNT.Series.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png",TNT HD México
+http://189.50.210.3:8008/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TNT.(Argentina).ar" tvg-logo="https://e7.pngegg.com/pngimages/733/502/png-clipart-tnt-series-turner-broadcasting-system-television-logo-comedy-miscellaneous-text.png",TNT HD ARG
 http://201.230.137.204:8000/play/a0im/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TNT.(Argentina).ar" tvg-logo="https://e7.pngegg.com/pngimages/733/502/png-clipart-tnt-series-turner-broadcasting-system-television-logo-comedy-miscellaneous-text.png",TNT HD ARG
@@ -239,7 +243,7 @@ http://201.230.137.204:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png",Cinecanal HD
 http://189.50.210.3:8008/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png",Cinecanal HD
-http://181.119.86.68:8000/play/b036/index.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Cinemax.(Chile).cl" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png",Canal Cinemax CHILE
 http://201.230.137.204:8000/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MaxGO.svg/125px-MaxGO.svg.png",CINEMAX
@@ -303,6 +307,8 @@ https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_877325b0e9574b8ea585d9eef33fae50~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SAS TV | GT
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1,Canal 2 Alpavision Neiva
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1,Infinita TV (1080p)
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1,Isla TV (480p)
@@ -323,6 +329,8 @@ http://181.119.86.68:8000/play/b071/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 #EXTINF:-1,Cotubanama TV (1080p)
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1,Canal Más Televisión (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movies",Cine Terror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
 #EXTINF:-1 tvg-id="CineXOXO.us" tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="Movies",Cine XOXO
@@ -364,6 +372,8 @@ http://45.5.117.99:8000/play/a0kn/index.m3u8
 http://201.230.121.85:8000/play/a0yd/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png",Discovery Channel Chile
 http://201.230.137.204:8000/play/a0j3/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png",Discovery Channel Chile
+http://189.50.210.3:8008/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Atlas_TV_2014.png",ATLAS TV
 http://181.119.85.222:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_atlas.png",ATLAS TV
@@ -446,7 +456,7 @@ http://138.36.253.13:8008/play/a01t/index.m3u8
 #EXTINF:-1,ESPN HD
 http://190.116.65.11:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD
-http://201.230.137.204:8000/play/a06l/index.m3u8
+http://189.50.210.3:8008/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD
 http://201.230.137.204:8000/play/a0ib/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD
@@ -462,24 +472,26 @@ http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn-1.png",ESPN PREMIUM HD
 http://200.113.4.75:7210/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn-1.png",ESPN PREMIUM HD
-http://190.102.246.93:9005/play/a00x
+http://189.50.210.3:8008/play/a07q/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn-1.png",ESPN PREMIUM HD
-http://190.102.246.93:9005/play/a029
+http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.cl" tvg-logo="https://w7.pngwing.com/pngs/87/775/png-transparent-espn-logo-icon-thumbnail.png",ESPN HD CHILE
 http://181.78.106.127:9000/play/ca033/index.m3u8
+#EXTINF:-1,ESPN DEPORTES
+http://148.113.207.98:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="-",ESPN 2 HD
 http://201.230.137.204:8000/play/a0i6/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://190.116.65.11:8000/play/a06l/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://190.117.20.37:8000/play/a05u/index.m3u8
+http://189.50.210.3:8008/play/a07d/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://148.222.225.136:8004/play/a0iu/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2
 http://201.230.137.204:8000/play/a0fb/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://190.102.246.93:9005/play/a05a
+http://189.50.210.3:8008/play/a033/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://190.102.246.93:9005/play/a05c
 #EXTINF:-1,ESPN 2 HD
@@ -492,7 +504,7 @@ http://190.116.65.11:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3
 http://201.230.137.204:8000/play/a0g1/index.m3u8
 #EXTINF:-1,ESPN 3 HD
-http://45.184.87.142:8000/play/a04b
+http://189.50.210.3:8008/play/a04b/index.m3u8
 #EXTINF:-1,ESPN 3 HD
 http://179.51.136.19:8000/play/a1ah/index.m3u8
 #EXTINF:-1, ESPN 3 HD
@@ -514,14 +526,14 @@ http://201.217.246.84:9000/play/a084/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 5
 http://201.230.137.204:8000/play/a0fp/index.m3u8
 #EXTINF:-1,ESPN 5 HD
-http://179.51.136.19:8000/play/a1a6/index.m3u8
+http://189.50.210.3:8008/play/a030/index.m3u8
 #EXTINF:-1,ESPN 5 HD
 http://190.60.37.118:4000/play/a02m
 
 #EXTINF:-1 group-title="-",ESPN 6 HD
 http://201.230.137.204:8000/play/a0hq/index.m3u8
 #EXTINF:-1,ESPN 6 HD
-http://104.238.205.28:8989/278566_.m3u8
+http://189.50.210.3:8008/play/a04c/index.m3u8
 #EXTINF:-1,ESPN 6 HD
 http://190.102.246.93:9005/play/a01r
 #EXTINF:-1,ESPN 6 HD
@@ -564,12 +576,14 @@ http://190.60.32.178:8178/play/a085/index.m3u8
 #EXTINF:-1,VAMOS 🇪🇸
 https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8
 #EXTINF:-1,TNT SPORTS
-http://190.61.117.35:8000/play/a03i
-#EXTINF:-1 DILEMA SPORT
+http://189.50.210.3:8008/play/a074/index.m3u8
+#EXTINF:-1,DILEMA SPORT
 http://85.11.144.9:50999/44
 
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png",Win Sports+ HD
 http://148.222.225.136:8004/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png",Win Sports+ HD
+http://189.50.210.3:8008/play/a04n/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://181.78.83.106:8081/play/a05f
 #EXTINF:-1,WIN SPORTS+ HD
@@ -577,7 +591,7 @@ http://190.60.37.118:4000/play/a03i
 #EXTINF:-1,Win Sport HD
 http://181.78.83.106:8081/play/a05f
 #EXTINF:-1,TNT Sports Premium
-http://200.113.4.75:7210/play/a00c/index.m3u8
+http://189.50.210.3:8008/play/a031/index.m3u8
 #EXTINF:-1,TUDN
 http://181.78.106.127:9000/play/ca025/index.m3u8
 #EXTINF:-1,TUDN TV-110
@@ -650,11 +664,11 @@ http://45.195.15.172:8000/play/a0ct/index.m3u8
 http://181.119.85.222:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="Canal.BitMe.mx" tvg-logo="https://logowik.com/content/uploads/images/bitme2291.logowik.com.webp",BitMe
 http://181.119.86.68:8000/play/c027/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fmh.la/images/team/logo_kids.png",FMH KISDS
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_kids.png",FMH KISDS
 http://148.222.225.136:8004/play/a0ik/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fmh.la/images/team/logo_kids.png",FMH KISDS
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_kids.png",FMH KISDS
 http://181.119.85.222:8000/play/a03a/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fmh.la/images/team/logo_kids.png",FMH KISDS
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_kids.png",FMH KISDS
 http://181.119.86.68:8000/play/b037/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/yugiohenespanol/images/1/1b/Drag%C3%B3n_Toon_de_Ojos_Azules_Duel_Links.png/revision/latest?cb=20190111002554&path-prefix=es",FMH ANIMOTION
 http://181.119.85.222:8000/play/a03c/index.m3u8
@@ -739,12 +753,16 @@ http://45.195.15.172:8000/play/a005/index.m3u8
 http://190.60.37.118:4000/play/a00j
 #EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png",CHV CHILE
 http://181.188.216.5:18000/play/a0ii/index.m3u8
+#EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png",CHV CHILE
+http://189.50.210.3:8008/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png",ECUAVISA
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png",ECUAVISA
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/9
 #EXTINF:-1 tvg-id="Canal.ECUADORTV.(Ecuador).ec" tvg-logo="",ECUADORTV
 https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:-1, Venevision (480p)
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 #EXTINF:-1,TVC
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/12
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo-antena-latina-1999-2002.jpg/330px-Logotipo-antena-latina-1999-2002.jpg",Antena 7
@@ -753,12 +771,18 @@ http://45.195.15.172:8000/play/a0ch/index.m3u8
 https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
 #EXTINF:-1,TVN HD
 http://138.36.253.13:8008/play/064/index.m3u8
+#EXTINF:-1,TVN HD
+http://189.50.210.3:8008/play/a079/index.m3u8
+#EXTINF:-1,TVN HD
+http://189.50.210.3:8008/play/a045/index.m3u8
 #EXTINF:-1,Azcorazon
 http://45.5.117.99:8000/play/a0g6/index.m3u8
 #EXTINF:-1,Azmundo
 http://45.5.117.99:8000/play/a0h8/index.m3u8
 #EXTINF:-1,AZTECA 7
 http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1,ATN Televisión (720p) [Not 24/7]
+https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.Clic.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg/revision/latest/scale-to-width-down/230?cb=20230630203519",clic HD MEX
 http://45.5.117.99:8000/play/a0gz/index.m3u8
 #EXTINF:-1,Canal 10 - ESA
@@ -773,9 +797,8 @@ http://104.238.205.28:8989/278699_.m3u8
 http://45.195.15.172:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png",Comedy Central HD
 http://201.230.137.204:8000/play/a0ht/index.m3u8
-
-#EXTINF:-1,Canal 2 Alpavision Neiva
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1,Canal 8 TV+ (720p)
+https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="E!.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png",E!
 http://148.222.225.136:8004/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="E!.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png",E!
@@ -786,6 +809,8 @@ http://201.230.137.204:8000/play/a0i1/index.m3u8
 http://201.230.137.204:8000/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/250px-Canal_2_%28Las_Estrellas_2017%29.svg.png",Las Estrellas
 http://181.78.106.127:9000/play/ca011/index.m3u8
+#EXTINF:-1 tvg-id="Las Estrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/250px-Canal_2_%28Las_Estrellas_2017%29.svg.png",Las Estrellas
+http://189.50.210.3:8008/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg",Lifetime
 http://189.50.210.3:8008/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg",Lifetime
@@ -846,10 +871,14 @@ http://189.50.210.3:8008/play/a07g/index.m3u8
 http://201.230.137.204:8000/play/a0el/index.m3u8
 #EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png",Latina HD
 http://201.230.137.204:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-id="LATINA.HD.(Latina.HD).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png",Latina HD
+http://189.50.210.3:8008/play/a04m/index.m3u8
 #EXTINF:-1 group-title="-",Panamericana TV
 http://201.230.137.204:8000/play/a0fn/index.m3u8
 #EXTINF:-1 group-title="-",Sun Channel HD VENEZUELA
 http://201.230.137.204:8000/play/a0if/index.m3u8
+#EXTINF:-1 group-title="-",Sun Channel HD
+http://189.50.210.3:8008/play/a07t/index.m3u8
 #EXTINF:-1 group-title="-",Willax
 http://201.230.137.204:8000/play/a0fj/index.m3u8
 #EXTINF:-1 group-title="-",Zona Latina
