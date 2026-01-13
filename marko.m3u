@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz"
  
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
+ 
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD
 http://181.78.7.90:12500/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
 http://181.78.85.53:9002/play/a02h/index.m3u8
@@ -792,7 +793,9 @@ http://104.238.205.28:8989/278754_.m3u8
 #EXTINF:-1,UNIMAX
 http://104.238.205.28:8989/278726_.m3u8
 #EXTINF:-1,UNIVISION
-http://104.238.205.28:8989/278699_.m3u8
+https://d162h6qqsk8wvl.cloudfront.net/26f19622-d240-4b2a-935a-658ac9cb071b/manifest.m3u8
+#EXTINF:-1,Univision West (1080p)
+https://d162h6qqsk8wvl.cloudfront.net/332f0863-839a-4ecb-a160-c941de700aa4/manifest.m3u8
 #EXTINF:-1 tvg-id="Comedy Central.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png",Comedy Central HD
 http://45.195.15.172:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png",Comedy Central HD
@@ -836,7 +839,7 @@ http://200.113.4.75:7210/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="Star.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 #EXTINF:-1 tvg-id="Star.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
-http://201.230.137.204:8000/play/a0hc/index.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD
@@ -950,14 +953,23 @@ http://181.78.7.90:12500/play/a0co/index.m3u8
 http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/3/3d/Osoaoaoaoaoaoaoaooa.png/revision/latest/scale-to-width-down/250?cb=20240430152413",MUSICA ROMANTICA
 http://181.78.7.90:12500/play/a0cp/index.m3u8
-#EXTINF:-1tvg-logo="https://americancable.ec/wp-content/uploads/2023/12/MIMUSICAREGGAETON-LOGO.png",MUSICAREGGAETON
+#EXTINF:-1 tvg-logo="https://americancable.ec/wp-content/uploads/2023/12/MIMUSICAREGGAETON-LOGO.png",MUSICAREGGAETON
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
+
+#EXTINF:-1,Stingray Classic Rock (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 
 
 #EXTINF:-1,Food Network SD
 http://189.50.210.3:8008/play/a065/index.m3u8
 #EXTINF:-1,El Gourmet
-http://45.5.117.99:8000/play/a046/index.m3u8
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1,CNN ESPANOL
 http://201.230.137.204:8000/play/a0f4/index.m3u8
@@ -965,6 +977,3 @@ http://201.230.137.204:8000/play/a0f4/index.m3u8
 http://45.195.15.172:8000/play/a00d/index.m3u8
 #EXTINF:-1,CNN Espaæol
 http://200.113.4.75:7210/play/a005/index.m3u8
-
-
-
