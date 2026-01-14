@@ -359,7 +359,7 @@ http://45.5.117.99:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png",DISCOVERY THEATHER HD
 http://201.230.137.204:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.cl" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png",Discovery ID HD
-http://45.195.15.172:8000/play/a066/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
 #EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.cl" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png",Discovery ID HD DAÑADO
 http://45.5.117.99:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png",Discovery Channel HD
@@ -443,7 +443,7 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.+(DTS+).co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/340?cb=20221115002318&path-prefix=es",DSPORTS + HD(DTS+HD)
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.+(DTS+).co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/340?cb=20221115002318&path-prefix=es",DSPORTS + HD(DTS+HD)
-http://190.102.149.68:1234/play/a1ax/index.m3u8
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/5
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography-thumbnail.png",ESPN HD COL
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
@@ -454,7 +454,7 @@ http://201.182.248.76:8000/play/a173/index.m3u8
 #EXTINF:-1,ESPN HD
 http://138.36.253.13:8008/play/a01t/index.m3u8
 #EXTINF:-1,ESPN HD
-http://190.116.65.11:8000/play/a077/index.m3u8
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/1
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD
 http://189.50.210.3:8008/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD
@@ -724,6 +724,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/66b3af1c3a4ad200081c7d03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9bc446b7-764a-11f0-aeb9-32008dd2b401
 #EXTINF:-1 tvg-id="66a26a7846762a0008258d4e" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Retro", Baywatch
 https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a93d195d-764a-11f0-baf0-f63569e6b129
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png", CSI: Miami en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54667a-eca6-11ee-8620-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=336341e2-e802-4f73-bb12-0bcc22f45abc&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="mr-bean-live-action" tvg-name="mr-bean-live-action" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg" group-title="Series" , Mr. Bean - Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?ads_amagi_channel=975&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=comedy&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6617&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=9baab5e9-c367-4b9d-b5a4-988ef1054813&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,DREAMWORDK
@@ -760,6 +762,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/9
 #EXTINF:-1 tvg-id="Canal.ECUADORTV.(Ecuador).ec" tvg-logo="",ECUADORTV
 https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:-1 tvg-id="Canal.ECUADORTV.(Ecuador).ec" tvg-logo="",ECUADORTV
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/16
 #EXTINF:-1, Venevision (480p)
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 #EXTINF:-1,TVC
