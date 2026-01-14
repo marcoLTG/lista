@@ -19,7 +19,7 @@ http://fortv.cc:8080/90820916/64752029/78716
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="General" tvg-name="City TV Bogotá",Citytv
 http://148.222.225.136:8004/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="General" tvg-name="City TV Bogotá",CityTV
-http://189.50.210.3:8008/play/a06h/index.m3u8
+https://www.youtube.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ/live
 #EXTINF:-1 tvg-id="Canal.1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777670_C679F246B55CB21E.png",El Tiempo Televisión
@@ -975,3 +975,4 @@ http://201.230.137.204:8000/play/a0f4/index.m3u8
 http://45.195.15.172:8000/play/a00d/index.m3u8
 #EXTINF:-1,CNN Espaæol
 http://200.113.4.75:7210/play/a005/index.m3u8
+
