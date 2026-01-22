@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
 http://181.78.7.90:12500/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
-http://fortv.cc:8080/90820916/64752029/78700
+http://38.44.109.41:8003/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
 http://181.78.7.90:12500/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",Caracol HD 
-http://181.119.86.68:8000/play/b062/index.m3u8
+http://181.78.211.244:8005/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png",RCN
 http://38.44.109.41:8003/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png",RCN
@@ -39,7 +39,7 @@ http://148.222.225.136:8004/play/a0fz/index.m3u8
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipfuuc8AqD1eXWUOfdkJQTRDk36UlLNtwyRc57R1P2orDjn5bYNyaJmb_owpChyTAxHhFeQCgQNPURKtINIlFYngvD2uBuvT8L44qs4mUIGxU8LDBz6-v89agAFMluWVhJE00UNdJvseomlDGhjEOcOprg_6KvbokiVMnQSjz6UCwbsd8Dq2aKVBVX/s257/rcn-novelas.png",RCN Novelas HD
 http://fortv.cc:8080/90820916/64752029/86765
 #EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png",Señal Colombia
-http://fortv.cc:8080/90820916/64752029/78711
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Kids",Canal Capital
 http://181.78.211.244:8005/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20210218135608&path-prefix=es",La Kalle
@@ -70,11 +70,11 @@ http://189.50.210.3:8008/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png",HBO
 http://201.230.137.204:8000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png",HBO
-http://201.230.137.204:8000/play/a06h/index.m3u8
+http://200.229.147.142:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png",HBO (México)
 http://45.5.117.57:8999/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png",HBO (México)
-http://45.184.87.142:8000/play/a04k
+http://200.92.227.238:8000/play/a0mq/index.m3u8
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png",HBO HD
 http://45.5.117.99:8000/play/a0l2/index.m3u8
 
@@ -108,17 +108,17 @@ http://189.50.210.3:8008/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png",HBO XTREME
 http://200.229.147.142:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png",HBO XTREME
-http://200.92.227.238:8000/play/a0mu/index.m3u8
+http://200.229.147.142:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png",HBO XTREME
 http://190.60.37.118:4000/play/a03z
 #EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png",HBO XTREME
-http://200.92.227.238:8000/play/a0mu/index.m3u8
+http://38.199.4.105:9999/play/a0n3/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",DAÑADO HBO Signature
 http://201.230.137.204:8000/play/a0by/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.POP.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop
-http://201.230.137.204:8000/play/a06j/index.m3u8
+http://38.199.4.105:9999/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="HBO.POP.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop
 http://189.50.210.3:8008/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="HBO.POP.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop
@@ -132,7 +132,7 @@ http://45.5.117.57:8999/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="I742.122767.schedulesdirect.org" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932",UNIVERSAL CINEMA
 http://181.78.106.127:9000/play/ca083/index.m3u8
 #EXTINF:-1 tvg-id="I742.122767.schedulesdirect.org" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932",DAÑADO UNIVERSAL CINEMA
-http://45.195.15.172:8000/play/a067/index.m3u8
+http://200.92.227.238:8000/play/a0q5/index.m3u8
 #EXTINF:-1 tvg-id="I748.122761.schedulesdirect.org" tvg-name="Universal Premiere East" group-title="Peliculas & Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShS4CB-VFe138iuICHYS_eQ_yGc9L-ERQqln_Ad6QWVEvYXzJl18jSJjM0MxeYgyMDA6A&usqp=CAU",UNIVERSAL PREMIERE HD
 http://45.5.117.57:8999/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="I748.122761.schedulesdirect.org" tvg-name="Universal Premiere East" group-title="Peliculas & Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShS4CB-VFe138iuICHYS_eQ_yGc9L-ERQqln_Ad6QWVEvYXzJl18jSJjM0MxeYgyMDA6A&usqp=CAU",UNIVERSAL PREMIERE HD
@@ -164,13 +164,13 @@ https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony channel HD
 http://45.5.117.99:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony channel HD
-http://177.234.230.206:8011/play/a0of/index.m3u8
+http://200.229.147.142:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="SONY.(Sony).pe" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony channel HD PERU
 http://179.49.163.34:45000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Sony HD.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",SONY HD
 http://200.229.147.142:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="Sony HD.co" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",SONY
-http://200.92.227.238:8000/play/a0oc/index.m3u8
+http://38.199.4.105:9999/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(Chile).cl" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",SONY HD CHILE
 http://38.183.182.166:8000/play/a0vg/index.m3u8
 #EXTINF:-1 tvg-id="SONY.ve" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png",Sony (VENECO)
@@ -469,7 +469,7 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="I205.94102.schedulesdirect.org" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="I205.94102.schedulesdirect.org" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/5
+http://192.187.102.26:80/playlistfinder/playlistfinder/24.m3u8
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png?h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS
@@ -480,17 +480,19 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.+(DTS+).co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/340?cb=20221115002318&path-prefix=es",DSPORTS + HD(DTS+HD)
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/5
+#EXTINF:-1, DSPORTS+
+http://192.187.102.26:80/playlistfinder/playlistfinder/25.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography-thumbnail.png",ESPN HD COL
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
+http://38.199.4.105:9999/play/a0i7/index.m3u8
 #EXTINF:-1,ESPN HD
-http://138.36.253.13:8008/play/a01t/index.m3u8
+http://200.92.227.238:8000/play/a0tj/index.m3u8
 #EXTINF:-1,ESPN HD
 http://201.182.248.76:8000/play/a173/index.m3u8
 #EXTINF:-1,ESPN HD
 http://138.36.253.13:8008/play/a01t/index.m3u8
 #EXTINF:-1,ESPN HD
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/1
+http://201.182.248.76:8000/play/a173/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD
 http://189.50.210.3:8008/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png",ESPN HD
@@ -500,7 +502,7 @@ http://201.230.137.204:8000/play/a0eh/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN
 http://45.5.117.57:8999/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN
-http://fortv.cc:8080/90820916/64752029/86765
+http://189.50.210.3:8008/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/ESPN_Premium_%28red_and_black%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501175145&path-prefix=es",ESPN PREMIUM HD
 http://138.36.253.13:8008/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn-1.png",ESPN PREMIUM HD
@@ -621,7 +623,7 @@ http://189.50.210.3:8008/play/a074/index.m3u8
 http://85.11.144.9:50999/44
 
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png",Win Sports+ HD
-http://fortv.cc:8080/90820916/64752029/78717
+http://167.250.223.26:8085/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png",Win Sports+ HD
 http://fortv.cc:8080/90820916/64752029/78697
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png",Win Sports+ HD
@@ -635,6 +637,8 @@ http://181.78.83.106:8081/play/a05f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/250px-Win_Sports_nuevo_logo.svg.png" ,Win Sport HD
 http://190.61.55.34:2401/play/win/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/250px-Win_Sports_nuevo_logo.svg.png",Win Sport HD
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/250px-Win_Sports_nuevo_logo.svg.png",Win Sport
 http://148.222.225.136:8004/play/a057/index.m3u8
 
 #EXTINF:-1,TNT Sports Premium
